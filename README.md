@@ -1,7 +1,4 @@
-Here’s a sample `README.md` file for your weather app:
-
-````markdown
-# Weather App
+# ⛅ Weather App
 
 A simple weather app built with React, providing users with current weather data based on city name or geolocation. The app includes city search with auto-suggestions, real-time weather information, and error handling.
 
@@ -19,7 +16,7 @@ A simple weather app built with React, providing users with current weather data
 - **WeatherAPI**: A weather data API to get current weather information.
 - **Geolocation API**: Used to fetch weather data based on user's current location.
 
-## Getting Started
+## 🚀 Getting Started
 
 ### 1. Clone the repository:
 
@@ -27,7 +24,6 @@ A simple weather app built with React, providing users with current weather data
 git clone https://github.com/your-username/react-weather-app.git
 cd react-weather-app
 ```
-````
 
 ### 2. Install dependencies:
 
