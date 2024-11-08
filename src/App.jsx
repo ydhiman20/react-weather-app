@@ -94,7 +94,6 @@ const App = () => {
   // Handle city selection from suggestions
   const handleCitySelect = (selectedCity) => {
     fetchWeatherData(selectedCity);
-    setCity(selectedCity);
     setAutoList([]); // Clear suggestions
   };
 
